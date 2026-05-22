@@ -19,7 +19,7 @@ usando una tabla llamada `Product`.
 Copie el archivo:
 
 ```text
-roble.jar
+Roble-all.jar
 ```
 
 dentro de la carpeta:
@@ -34,7 +34,7 @@ La estructura debe quedar así:
 simpleRobleExample/
 ├── simpleRobleExample.pde
 └── code/
-    └── roble.jar
+    └── Roble-all.jar
 ```
 
 ---
